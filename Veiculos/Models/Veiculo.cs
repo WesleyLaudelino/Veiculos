@@ -11,5 +11,6 @@ namespace Veiculos.Models
         public string Descricao { get; set; }
         public string AnoFabricacao { get; set; }
         public string AnoModelo { get; set; }
+        public string CorVeiculo { get; set; }
     }
 }
